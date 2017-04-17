@@ -7,37 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a03b550-ab55-4c7a-8c61-87c1fb23f71e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/enigma/config/RootConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/enigma/config/WebConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/enigma/config/WebInit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/enigma/controller/MainController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/org/enigma/htmlpageparser/Parser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/classes/org/enigma/config/RootConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/classes/org/enigma/config/WebConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/classes/org/enigma/config/WebInit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/classes/org/enigma/controller/MainController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/classes/org/enigma/htmlpageparser/Parser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/javaee-web-api-7.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/jsoup-1.10.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.6.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/view/error.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/view/home.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/view/include/form.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/view/parse.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/spring-mvc-html-parser-1.0-SNAPSHOT/view/result.jsp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/view/home.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/view/home.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,34 +24,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Parser.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Parser.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/enigma/htmlpageparser/Parser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="51" column="7" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/view/include/form.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/view/home.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -97,6 +47,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -120,6 +71,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/org/enigma/htmlpageparser/Parser.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/view/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/org/enigma/controller/ParserController.java" />
       </list>
     </option>
   </component>
@@ -434,6 +386,116 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\IdeaProjects\SpringMvcHtmlParser\src\main\java\org\enigma\org\enigma\parser" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunManager" selected="Tomcat Server./">
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -939,12 +1001,27 @@
       <workItem from="1492449020816" duration="128000" />
       <workItem from="1492449151573" duration="365000" />
       <workItem from="1492450500967" duration="652000" />
-      <workItem from="1492469210919" duration="245000" />
+      <workItem from="1492469210919" duration="808000" />
     </task>
+    <task id="LOCAL-00001" summary="- target">
+      <created>1492469491403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1492469491403</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Minor text fixes.">
+      <created>1492469754682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1492469754682</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12860000" />
+    <option name="totallyTimeSpent" value="13423000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1002,6 +1079,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- target" />
+    <MESSAGE value="Minor text fixes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor text fixes." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1078,7 +1160,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/enigma/controller/MainController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/enigma/controller/ParserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
@@ -1152,7 +1234,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/enigma/controller/MainController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/enigma/controller/ParserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
@@ -1249,14 +1331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/enigma/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/enigma/config/WebInit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1269,14 +1343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/view/error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -1297,16 +1363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/enigma/htmlpageparser/Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="51" column="7" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/view/include/form.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1315,11 +1371,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/view/error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/enigma/controller/ParserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/view/home.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/enigma/htmlpageparser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
