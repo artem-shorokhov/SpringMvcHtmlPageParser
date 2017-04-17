@@ -7,7 +7,7 @@
         <div style="width:600px; margin:0 auto;">
             <div style="color:#00AA00">
                 /**<br>
-                * This cute webapp's purpose is to parse html page located by specified URL<br>
+                * This cute webapp's purpose is to parse HTML-page located by specified URL<br>
                 * in search of alphabetical words. It counts total number of words on the page,<br>
                 * and forms sorted list of unique words and their occurrences.<br>
                 * <br>
