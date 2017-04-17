@@ -12,12 +12,12 @@ import java.io.IOException;
 import java.net.MalformedURLException;
 
 @Controller
-public class MainController {
+public class ParserController {
 
     private final Parser parser;
 
     @Autowired
-    public MainController(Parser parser) {
+    public ParserController(Parser parser) {
         this.parser = parser;
     }
 
