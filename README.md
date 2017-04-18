@@ -2,8 +2,10 @@
 Spring MVC HTML-page parser
 
 This cute webapp's purpose is to parse HTML-page located by specified URL in search of alphabetical words.
-It counts and shows total number of words on the page and number of unique words on the page (in addition to original task),
+It counts and shows total number of words on the page and number of unique words on the page,
 and forms and shows sorted list of unique words and their occurrences.
+
+In addition to original task it is implemented as webapp, and shows number of unique words on the page.
 
 Original task in russian:
 
